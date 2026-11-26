@@ -1,0 +1,33 @@
+name: Atualiza o card do README
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todo dia às 03:00 (Brasília)
+  workflow_dispatch:
+  push:
+    paths: ["today.py", "penguin.py"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Gera os SVGs
+        env:
+          # opcional: crie o secret ACCESS_TOKEN (PAT) para contar repos privados
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python today.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          git diff --cached --quiet || git commit -m "Atualiza card do README"
+          git push

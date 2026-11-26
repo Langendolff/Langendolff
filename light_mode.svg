@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,'DejaVu Sans Mono','Liberation Mono',monospace" width="992px" height="608px" viewBox="0 0 992 608">
+<style>
+.fg{fill:#24292f} .key{fill:#953800} .val{fill:#0a3069} .dot{fill:#c2cfde}
+.add{fill:#1a7f37} .del{fill:#cf222e}
+ .body{fill:#24292f} .white{fill:#afb8c1} .orange{fill:#d4a000} .eye{fill:#24292f} .glint{fill:#afb8c1}
+text,tspan{white-space:pre}
+</style>
+<rect width="992" height="608" fill="#f6f8fa" rx="15"/>
+<text x="24" y="56.0" class="fg" font-size="13px">
+<tspan x="24" y="56.0"></tspan>
+<tspan x="24" y="73.4">                 <tspan class="body">.,:;8888;:,.</tspan></tspan>
+<tspan x="24" y="90.8">               <tspan class="body">.:888888888888:.</tspan></tspan>
+<tspan x="24" y="108.2">              <tspan class="body">,8888888888888888,</tspan></tspan>
+<tspan x="24" y="125.6">             <tspan class="body">.888888888888888888.</tspan></tspan>
+<tspan x="24" y="143.0">             <tspan class="body">;8888</tspan><tspan class="white">8888</tspan><tspan class="body">88</tspan><tspan class="white">8888</tspan><tspan class="body">8888;</tspan></tspan>
+<tspan x="24" y="160.4">             <tspan class="body">8888</tspan><tspan class="white">8</tspan><tspan class="glint">o</tspan><tspan class="eye">@@</tspan><tspan class="white">8</tspan><tspan class="body">88</tspan><tspan class="white">88</tspan><tspan class="glint">o</tspan><tspan class="eye">@</tspan><tspan class="white">8</tspan><tspan class="body">8888</tspan></tspan>
+<tspan x="24" y="177.8">             <tspan class="body">8888</tspan><tspan class="white">8</tspan><tspan class="eye">@@</tspan><tspan class="white">88</tspan><tspan class="body">88</tspan><tspan class="white">88</tspan><tspan class="eye">@@</tspan><tspan class="white">8</tspan><tspan class="body">8888</tspan></tspan>
+<tspan x="24" y="195.2">             <tspan class="body">,8888</tspan><tspan class="white">8888</tspan><tspan class="body">88</tspan><tspan class="white">8888</tspan><tspan class="body">8888,</tspan></tspan>
+<tspan x="24" y="212.6">              <tspan class="body">:88888</tspan><tspan class="orange">888888</tspan><tspan class="body">88888:</tspan></tspan>
+<tspan x="24" y="230.0">            <tspan class="body">.:88888</tspan><tspan class="orange">88888888</tspan><tspan class="body">88888:.</tspan></tspan>
+<tspan x="24" y="247.4">            <tspan class="body">;8888</tspan><tspan class="white">888</tspan><tspan class="orange">888888</tspan><tspan class="white">888</tspan><tspan class="body">8888;</tspan></tspan>
+<tspan x="24" y="264.8">           <tspan class="body">,8888</tspan><tspan class="white">88888888888888</tspan><tspan class="body">8888,</tspan></tspan>
+<tspan x="24" y="282.2">          <tspan class="body">,8888</tspan><tspan class="white">8888888888888888</tspan><tspan class="body">8888,</tspan></tspan>
+<tspan x="24" y="299.6">         <tspan class="body">,8888</tspan><tspan class="white">888888888888888888</tspan><tspan class="body">8888,</tspan></tspan>
+<tspan x="24" y="317.0">        <tspan class="body">.8888</tspan><tspan class="white">88888888888888888888</tspan><tspan class="body">8888.</tspan></tspan>
+<tspan x="24" y="334.4">       <tspan class="body">.88888</tspan><tspan class="white">88888888888888888888</tspan><tspan class="body">88888.</tspan></tspan>
+<tspan x="24" y="351.8">      <tspan class="body">.;8888</tspan><tspan class="white">8888888888888888888888</tspan><tspan class="body">8888;.</tspan></tspan>
+<tspan x="24" y="369.2">     <tspan class="body">.888888</tspan><tspan class="white">8888888888888888888888</tspan><tspan class="body">888888.</tspan></tspan>
+<tspan x="24" y="386.6">    <tspan class="body">.;888888</tspan><tspan class="white">8888888888888888888888</tspan><tspan class="body">888888;.</tspan></tspan>
+<tspan x="24" y="404.0">    <tspan class="body">;8888888</tspan><tspan class="white">8888888888888888888888</tspan><tspan class="body">8888888;</tspan></tspan>
+<tspan x="24" y="421.4">   <tspan class="body">,888888888</tspan><tspan class="white">88888888888888888888</tspan><tspan class="body">888888888,</tspan></tspan>
+<tspan x="24" y="438.8">   <tspan class="body">88888:8888</tspan><tspan class="white">88888888888888888888</tspan><tspan class="body">8888:88888</tspan></tspan>
+<tspan x="24" y="456.2">  <tspan class="body">.888;.</tspan> <tspan class="body">,8888</tspan><tspan class="white">888888888888888888</tspan><tspan class="body">8888,</tspan> <tspan class="body">.;888.</tspan></tspan>
+<tspan x="24" y="473.6">   <tspan class="body">,,.</tspan>    <tspan class="body">,8888</tspan><tspan class="white">8888888888888888</tspan><tspan class="body">8888,</tspan>    <tspan class="body">.,,</tspan></tspan>
+<tspan x="24" y="491.0">           <tspan class="body">.:8888</tspan><tspan class="white">888888888888</tspan><tspan class="body">8888:.</tspan></tspan>
+<tspan x="24" y="508.4">         <tspan class="orange">.,,,:888888</tspan><tspan class="white">888888</tspan><tspan class="orange">888888:,,,.</tspan></tspan>
+<tspan x="24" y="525.8">      <tspan class="orange">.:888888888888888888888888888888:.</tspan></tspan>
+<tspan x="24" y="543.2">      <tspan class="orange">,;88888888888;:,</tspan>  <tspan class="orange">,:;88888888888;,</tspan></tspan>
+<tspan x="24" y="560.6">         <tspan class="orange">........</tspan>            <tspan class="orange">........</tspan></tspan>
+</text>
+<text x="411" y="40.0" class="fg" font-size="16px">
+<tspan x="411" y="40.0"><tspan class="key">lorenzo@langendolff</tspan><tspan class="fg"> ——————————————————————————————————————</tspan></tspan>
+<tspan x="411" y="60.0"><tspan class="key">OS:</tspan><tspan class="dot"> .................................. </tspan><tspan class="val">Arch Linux, Android</tspan></tspan>
+<tspan x="411" y="80.0"><tspan class="key">Uptime:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">2 anos, 11 meses, 30 dias (no GitHub)</tspan></tspan>
+<tspan x="411" y="100.0"><tspan class="key">Host:</tspan><tspan class="dot"> .............................. </tspan><tspan class="val">UFSM, Santa Maria, RS</tspan></tspan>
+<tspan x="411" y="120.0"><tspan class="key">Kernel:</tspan><tspan class="dot"> ............................ </tspan><tspan class="val">Redes de Computadores</tspan></tspan>
+<tspan x="411" y="140.0"><tspan class="key">Mestrado:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">Educação Profissional e Tecnológica</tspan></tspan>
+<tspan x="411" y="160.0"><tspan class="key">Shell:</tspan><tspan class="dot"> .............................................. </tspan><tspan class="val">fish</tspan></tspan>
+<tspan x="411" y="180.0"></tspan>
+<tspan x="411" y="200.0"><tspan class="key">Languages.Programming:</tspan><tspan class="dot"> .... </tspan><tspan class="val">Rust, TypeScript, Kotlin, Dart</tspan></tspan>
+<tspan x="411" y="220.0"><tspan class="key">Languages.Also:</tspan><tspan class="dot"> ................... </tspan><tspan class="val">JavaScript, C#, Python</tspan></tspan>
+<tspan x="411" y="240.0"><tspan class="key">Languages.Real:</tspan><tspan class="dot"> ....................... </tspan><tspan class="val">Português, English</tspan></tspan>
+<tspan x="411" y="260.0"></tspan>
+<tspan x="411" y="280.0"><tspan class="key">Hobbies.Software:</tspan><tspan class="dot"> ................ </tspan><tspan class="val">Jogos educativos, Linux</tspan></tspan>
+<tspan x="411" y="300.0"><tspan class="key">Hobbies.Redes:</tspan><tspan class="dot"> .................. </tspan><tspan class="val">Segurança, Firewall, IDS</tspan></tspan>
+<tspan x="411" y="320.0"></tspan>
+<tspan x="411" y="340.0"><tspan class="fg">— Projetos ———————————————————————————————————————————————</tspan></tspan>
+<tspan x="411" y="360.0"><tspan class="key">TidyFlow:</tspan><tspan class="dot"> ................. </tspan><tspan class="val">Organizador de arquivos (Rust)</tspan></tspan>
+<tspan x="411" y="380.0"><tspan class="key">Firewall:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">Tower defense educativo</tspan></tspan>
+<tspan x="411" y="400.0"><tspan class="key">Quitado:</tspan><tspan class="dot"> ........................ </tspan><tspan class="val">Contas a pagar (Flutter)</tspan></tspan>
+<tspan x="411" y="420.0"><tspan class="key">Locadora:</tspan><tspan class="dot"> ............. </tspan><tspan class="val">Streaming no seu servidor (Docker)</tspan></tspan>
+<tspan x="411" y="440.0"></tspan>
+<tspan x="411" y="460.0"><tspan class="fg">— Contato ————————————————————————————————————————————————</tspan></tspan>
+<tspan x="411" y="480.0"><tspan class="key">GitHub:</tspan><tspan class="dot"> ........................... </tspan><tspan class="val">github.com/Langendolff</tspan></tspan>
+<tspan x="411" y="500.0"></tspan>
+<tspan x="411" y="520.0"><tspan class="fg">— GitHub Stats ———————————————————————————————————————————</tspan></tspan>
+<tspan x="411" y="540.0"><tspan class="key">Repos:</tspan><tspan class="dot"> ....... </tspan><tspan class="val">11 {Contrib: 2}</tspan><tspan class="fg"> | </tspan><tspan class="key">Stars:</tspan><tspan class="dot"> ................ </tspan><tspan class="val">9</tspan></tspan>
+<tspan x="411" y="560.0"><tspan class="key">Commits:</tspan><tspan class="dot"> ............... </tspan><tspan class="val">1.551</tspan><tspan class="fg"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">0</tspan></tspan>
+<tspan x="411" y="580.0"><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dot"> . </tspan><tspan class="val">354.056 ( </tspan><tspan class="add">456.024++</tspan><tspan class="fg">, </tspan><tspan class="del">101.968--</tspan><tspan class="fg"> )</tspan></tspan>
+</text></svg>
