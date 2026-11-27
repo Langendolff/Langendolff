@@ -42,7 +42,7 @@ text,tspan{white-space:pre}
 <text x="411" y="40.0" class="fg" font-size="16px">
 <tspan x="411" y="40.0"><tspan class="key">lorenzo@langendolff</tspan><tspan class="fg"> ——————————————————————————————————————</tspan></tspan>
 <tspan x="411" y="60.0"><tspan class="key">OS:</tspan><tspan class="dot"> .................................. </tspan><tspan class="val">Arch Linux, Android</tspan></tspan>
-<tspan x="411" y="80.0"><tspan class="key">Uptime:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">2 anos, 11 meses, 30 dias (no GitHub)</tspan></tspan>
+<tspan x="411" y="80.0"><tspan class="key">Uptime:</tspan><tspan class="dot"> .............. </tspan><tspan class="val">3 anos, 0 meses, 0 dias (no GitHub)</tspan></tspan>
 <tspan x="411" y="100.0"><tspan class="key">Host:</tspan><tspan class="dot"> .............................. </tspan><tspan class="val">UFSM, Santa Maria, RS</tspan></tspan>
 <tspan x="411" y="120.0"><tspan class="key">Kernel:</tspan><tspan class="dot"> ............................ </tspan><tspan class="val">Redes de Computadores</tspan></tspan>
 <tspan x="411" y="140.0"><tspan class="key">Mestrado:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">Educação Profissional e Tecnológica</tspan></tspan>
@@ -66,6 +66,6 @@ text,tspan{white-space:pre}
 <tspan x="411" y="500.0"></tspan>
 <tspan x="411" y="520.0"><tspan class="fg">— GitHub Stats ———————————————————————————————————————————</tspan></tspan>
 <tspan x="411" y="540.0"><tspan class="key">Repos:</tspan><tspan class="dot"> ........ </tspan><tspan class="val">6 {Contrib: 1}</tspan><tspan class="fg"> | </tspan><tspan class="key">Stars:</tspan><tspan class="dot"> ................ </tspan><tspan class="val">4</tspan></tspan>
-<tspan x="411" y="560.0"><tspan class="key">Commits:</tspan><tspan class="dot"> ................. </tspan><tspan class="val">164</tspan><tspan class="fg"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">0</tspan></tspan>
-<tspan x="411" y="580.0"><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dot"> .... </tspan><tspan class="val">70.046 ( </tspan><tspan class="add">75.489++</tspan><tspan class="fg">, </tspan><tspan class="del">5.443--</tspan><tspan class="fg"> )</tspan></tspan>
+<tspan x="411" y="560.0"><tspan class="key">Commits:</tspan><tspan class="dot"> ................. </tspan><tspan class="val">165</tspan><tspan class="fg"> | </tspan><tspan class="key">Followers:</tspan><tspan class="dot"> ............ </tspan><tspan class="val">1</tspan></tspan>
+<tspan x="411" y="580.0"><tspan class="key">Lines of Code on GitHub:</tspan><tspan class="dot"> .... </tspan><tspan class="val">70.147 ( </tspan><tspan class="add">75.601++</tspan><tspan class="fg">, </tspan><tspan class="del">5.454--</tspan><tspan class="fg"> )</tspan></tspan>
 </text></svg>
